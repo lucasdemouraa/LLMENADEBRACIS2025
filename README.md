@@ -4,7 +4,7 @@ This repository contains supplementary materials for the study reported in the p
 
 The tables below provide an overview of the multiple-choice questions.
 
-## Tabela Desempenho do ChatGPT-4o em 10 rodadas nas 25 questões do ENADE 2024 de Ciência da Computação  
+## Tabela Desempenho do ChatGPT-4o em 10 rodadas nas 25 questões (imagens) do ENADE 2024 de Ciência da Computação  
 
 | Questão | Gabarito | 4o | 4o | 4o | 4o | 4o | 4o | 4o | 4o | 4o | 4o | Pontuação |
 |---------|----------|----|----|----|----|----|----|----|----|----|----|-----------|
@@ -35,3 +35,102 @@ The tables below provide an overview of the multiple-choice questions.
 | 35      | D        | D  | D  | D  | X  | D  | D  | D  | E  | E  | E  | 6         |
 | **Acertos** |      | 11 | 11 | 9  | 6  | 6  | 12 | 12 | 10 | 10 | 10 | **9,7**   |
 | **Percentual de Acerto** | |44,0%|44,0%|36,0%|24,0%|24,0%|48,0%|48,0%|40,0%|40,0%|40,0%| **38,8%** |
+
+## Tabela Desempenho do ChatGPT-o1 em 10 rodadas nas 25 questões (imagens) do ENADE 2024 de Ciência da Computação  
+| Questão | Gabarito | o1 | o1 | o1 | o1 | o1 | o1 | o1 | o1 | o1 | o1 | Pontuação |
+|---------|----------|----|----|----|----|----|----|----|----|----|----|-----------|
+| 9       | E        | X  | X  | X  | X  | X  | X  | X  | X  | X  | E  | 1         |
+| 10      | B        | B  | B  | B  | B  | B  | B  | B  | B  | B  | B  | 10        |
+| 11      | D        | X  | D  | D  | D  | D  | D  | D  | D  | D  | D  | 9         |
+| 12      | B        | B  | B  | B  | B  | B  | B  | B  | B  | B  | B  | 10        |
+| 13      | E        | D  | D  | D  | D  | D  | D  | D  | D  | D  | D  | 0         |
+| 14      | C        | C  | C  | C  | C  | C  | C  | C  | C  | C  | C  | 10        |
+| 15      | C        | C  | C  | C  | C  | C  | C  | C  | C  | C  | C  | 10        |
+| 16      | B        | C  | C  | X  | C  | C  | X  | C  | E  | E  | C  | 0         |
+| 17      | C        | C  | C  | C  | C  | C  | C  | C  | C  | C  | C  | 10        |
+| 18      | E        | E  | X  | A  | X  | X  | E  | E  | E  | X  | E  | 5         |
+| 19      | D        | D  | D  | D  | D  | D  | D  | D  | D  | D  | D  | 10        |
+| 20      | A        | A  | A  | A  | A  | A  | A  | A  | A  | A  | A  | 10        |
+| 21      | E        | C  | C  | C  | D  | C  | C  | C  | D  | C  | C  | 0         |
+| 22      | A        | A  | A  | A  | A  | A  | A  | A  | A  | A  | A  | 10        |
+| 23      | C        | C  | C  | C  | X  | C  | C  | C  | C  | C  | C  | 9         |
+| 24      | E        | A  | E  | E  | E  | D  | E  | E  | E  | E  | E  | 8         |
+| 25      | B        | E  | B  | E  | B  | E  | E  | E  | E  | B  | E  | 3         |
+| 26      | A        | E  | E  | A  | A  | A  | A  | A  | A  | A  | E  | 7         |
+| 27      | D        | D  | D  | D  | D  | D  | D  | D  | D  | D  | D  | 10        |
+| 28      | B        | E  | B  | B  | B  | B  | B  | B  | B  | B  | B  | 9         |
+| 30      | E        | E  | E  | E  | E  | E  | E  | E  | E  | E  | E  | 10        |
+| 31      | E        | E  | E  | E  | E  | E  | E  | E  | E  | E  | E  | 10        |
+| 32      | A        | X  | A  | A  | A  | A  | X  | A  | A  | A  | A  | 8         |
+| 34      | C        | C  | C  | C  | C  | C  | C  | C  | C  | C  | C  | 10        |
+| 35      | D        | D  | D  | D  | D  | D  | D  | D  | D  | D  | D  | 10        |
+| **Acertos** |      | 15 | 19 | 19 | 19 | 18 | 19 | 20 | 20 | 20 | 20 | **18,9**   |
+| **Percentual de Acerto** | |60,0%|76,0%|76,0%|76,0%|72,0%|76,0%|80,0%|80,0%|80,0%|80,0%| **75,6%** |
+
+## Tabela Desempenho do Deepseek - V3(R1) em 10 rodadas nas 25 questões (imagens) do ENADE 2024 de Ciência da Computação 
+| Questão | Gabarito | Deepseek - V3 | Deepseek - V3 | Deepseek - V3 | Deepseek - V3 | Deepseek - V3 | Deepseek - V3 | Deepseek - V3 | Deepseek - V3 | Deepseek - V3 | Deepseek - V3 | Pontuação |
+|---------|----------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|-----------|
+| 9       | E        | D             | D             | D             | D             | D             | X             | D             | D             | D             | D             | 0         |
+| 10      | B        | B             | B             | B             | B             | B             | B             | B             | B             | B             | B             | 10        |
+| 11      | D        | D             | D             | D             | D             | D             | D             | D             | D             | D             | D             | 10        |
+| 12      | B        | B             | B             | B             | B             | B             | B             | B             | B             | B             | B             | 10        |
+| 13      | E        | D             | D             | D             | D             | D             | D             | D             | D             | D             | D             | 0         |
+| 14      | C        | C             | C             | C             | C             | C             | C             | C             | C             | C             | C             | 10        |
+| 15      | C        | C             | C             | C             | C             | C             | C             | C             | C             | C             | C             | 10        |
+| 16      | B        | A             | C             | D             | C             | C             | D             | C             | C             | D             | C             | 0         |
+| 17      | C        | D             | B             | C             | B             | B             | C             | B             | B             | B             | B             | 2         |
+| 18      | E        | E             | E             | E             | E             | E             | E             | E             | E             | E             | E             | 10        |
+| 19      | D        | D             | D             | D             | D             | D             | D             | D             | D             | D             | D             | 10        |
+| 20      | A        | A             | A             | A             | A             | A             | A             | A             | A             | A             | A             | 10        |
+| 21      | E        | D             | D             | D             | D             | D             | D             | D             | D             | D             | D             | 0         |
+| 22      | A        | A             | A             | A             | A             | A             | A             | A             | A             | A             | A             | 10        |
+| 23      | C        | C             | C             | C             | C             | C             | C             | C             | C             | C             | C             | 10        |
+| 24      | E        | D             | D             | E             | E             | B             | C             | A             | E             | C             | B             | 3         |
+| 25      | B        | D             | X             | X             | D             | D             | D             | D             | D             | D             | D             | 0         |
+| 26      | A        | A             | A             | A             | A             | A             | A             | A             | A             | A             | A             | 10        |
+| 27      | D        | X             | X             | X             | A             | A             | X             | X             | X             | X             | D             | 1         |
+| 28      | B        | B             | B             | B             | B             | B             | B             | B             | B             | B             | B             | 10        |
+| 30      | E        | E             | E             | E             | E             | E             | E             | E             | E             | E             | E             | 10        |
+| 31      | E        | NT            | NT            | NT            | NT            | NT            | NT            | NT            | NT            | NT            | NT            | 0         |
+| 32      | A        | D             | D             | X             | B             | B             | D             | D             | D             | D             | D             | 0         |
+| 34      | C        | C             | E             | C             | C             | C             | C             | X             | C             | C             | C             | 8         |
+| 35      | D        | D             | D             | D             | D             | D             | D             | D             | D             | D             | D             | 10        |
+| **Acertos** |      | 15            | 14            | 17            | 16            | 15            | 16            | 14            | 16            | 15            | 16            | **15,4**   |
+| **Percentual de Acerto** | |60,0%|56,0%|68,0%|64,0%|64,0%|64,0%|56,0%|64,0%|60,0%|64,0%| **62,0%** |
+
+**OBS: NT = Deepseek não conseguiu reconhecer a imagem da questão.**
+
+## Tabela Desempenho do Gemini-2.0 Flash em 10 rodadas nas 25 questões (imagens) do ENADE 2024 de Ciência da Computação 
+| Questão | Gabarito | gemini-2.0 Flash | gemini-2.0 Flash | gemini-2.0 Flash | gemini-2.0 Flash | gemini-2.0 Flash | gemini-2.0 Flash | gemini-2.0 Flash | gemini-2.0 Flash | gemini-2.0 Flash | gemini-2.0 Flash | Pontuação |
+|---------|----------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|-----------|
+| 9       | E        | E                | E                | E                | E                | E                | E                | E                | E                | E                | E                | 10        |
+| 10      | B        | B                | B                | B                | B                | B                | B                | B                | B                | B                | B                | 10        |
+| 11      | D        | D                | D                | D                | D                | D                | D                | D                | D                | D                | D                | 10        |
+| 12      | B        | B                | B                | B                | B                | B                | B                | B                | B                | B                | B                | 10        |
+| 13      | E        | D                | D                | D                | D                | D                | D                | D                | D                | D                | D                | 0         |
+| 14      | C        | C                | C                | B                | C                | C                | C                | C                | C                | B                | C                | 8         |
+| 15      | C        | C                | C                | C                | C                | C                | C                | C                | C                | C                | C                | 10        |
+| 16      | B        | A                | A                | A                | A                | A                | A                | A                | A                | A                | A                | 0         |
+| 17      | C        | C                | C                | C                | C                | C                | C                | C                | C                | C                | C                | 10        |
+| 18      | E        | E                | E                | E                | E                | E                | E                | E                | E                | E                | E                | 10        |
+| 19      | D        | D                | D                | D                | D                | D                | D                | D                | D                | D                | D                | 10        |
+| 20      | A        | A                | A                | A                | A                | A                | A                | A                | A                | A                | A                | 10        |
+| 21      | E        | E                | E                | E                | D                | E                | D                | E                | E                | E                | E                | 8         |
+| 22      | A        | A                | A                | A                | A                | A                | A                | A                | A                | A                | A                | 10        |
+| 23      | C        | C                | C                | C                | C                | C                | C                | C                | C                | C                | C                | 10        |
+| 24      | E        | E                | E                | E                | E                | E                | E                | E                | E                | E                | E                | 10        |
+| 25      | B        | B                | B                | B                | B                | B                | B                | B                | B                | B                | B                | 10        |
+| 26      | A        | C                | E                | E                | E                | A                | E                | A                | E                | E                | E                | 2         |
+| 27      | D        | E                | A                | D                | D                | A                | D                | D                | A                | A                | D                | 5         |
+| 28      | B        | B                | B                | B                | A                | B                | A                | E                | B                | B                | B                | 7         |
+| 30      | E        | E                | E                | E                | E                | E                | E                | E                | E                | A                | E                | 9         |
+| 31      | E        | D                | B                | A                | B                | B                | E                | D                | E                | E                | B                | 3         |
+| 32      | A        | A                | A                | A                | A                | A                | A                | A                | A                | A                | A                | 10        |
+| 34      | C        | E                | D                | C                | E                | A                | C                | C                | E                | C                | C                | 5         |
+| 35      | D        | D                | D                | D                | D                | D                | D                | D                | D                | D                | D                | 10        |
+| **Acertos** |      | 19               | 19               | 20               | 18               | 20               | 20               | 21               | 20               | 19               | 21               | **19,7**   |
+| **Percentual de Acerto** | |76,0%|76,0%|80,0%|72,0%|80,0%|80,0%|84,0%|80,0%|76,0%|84,0%| **78,8%** |
+
+
+
+
