@@ -6,35 +6,35 @@ The tables below provide an overview of the multiple-choice questions.
 
 ## Tabela Desempenho do ChatGPT-4o em 10 rodadas nas 25 questões (imagens) do ENADE 2024 de Ciência da Computação  
 
-| Questão | Gabarito | Tentativa 1 | Tentativa 2 | Tentativa 3 | Tentativa 4 | Tentativa 5 | Tentativa 6 | Tentativa 7 | Tentativa 8 | Tentativa 9 |Tentativa 10 | Pontuação |
-|---------|----------|----|----|----|----|----|----|----|----|----|----|-----------|
-| 9       | E        | E  | D  | D  | D  | D  | D  | D  | D  | D  | D  | 1         |
-| 10      | B        | B  | B  | B  | B  | B  | B  | B  | B  | B  | B  | 10        |
-| 11      | D        | E  | D  | A  | E  | A  | E  | D  | E  | E  | E  | 2         |
-| 12      | B        | C  | E  | D  | D  | D  | E  | D  | E  | E  | E  | 0         |
-| 13      | E        | D  | D  | D  | D  | D  | D  | D  | D  | D  | D  | 0         |
-| 14      | C        | C  | B  | B  | B  | B  | C  | C  | C  | C  | C  | 6         |
-| 15      | C        | C  | C  | C  | C  | C  | C  | C  | C  | C  | C  | 10        |
-| 16      | B        | D  | C  | A  | E  | A  | E  | C  | C  | E  | E  | 0         |
-| 17      | C        | A  | A  | C  | A  | A  | C  | C  | C  | C  | A  | 5         |
-| 18      | E        | E  | E  | E  | C  | E  | E  | E  | E  | E  | E  | 9         |
-| 19      | D        | E  | X  | E  | E  | E  | E  | E  | E  | E  | E  | 0         |
-| 20      | A        | A  | A  | D  | A  | B  | A  | C  | C  | C  | C  | 4         |
-| 21      | E        | C  | C  | C  | C  | C  | C  | C  | C  | C  | C  | 0         |
-| 22      | A        | A  | A  | A  | A  | A  | A  | A  | A  | A  | A  | 10        |
-| 23      | C        | E  | X  | E  | X  | E  | X  | E  | E  | E  | E  | 0         |
-| 24      | E        | A  | E  | A  | D  | A  | E  | A  | A  | C  | A  | 2         |
-| 25      | B        | E  | E  | E  | E  | E  | E  | E  | E  | E  | E  | 0         |
-| 26      | A        | A  | E  | E  | E  | E  | E  | E  | E  | E  | E  | 1         |
-| 27      | D        | C  | D  | B  | D  | B  | D  | D  | D  | D  | D  | 7         |
-| 28      | B        | E  | E  | E  | E  | E  | E  | E  | E  | E  | E  | 0         |
-| 30      | E        | E  | E  | E  | E  | A  | E  | E  | E  | E  | E  | 9         |
-| 31      | E        | E  | B  | E  | B  | E  | E  | E  | E  | E  | E  | 8         |
-| 32      | A        | D  | D  | D  | D  | D  | D  | D  | D  | D  | A  | 1         |
-| 34      | C        | D  | C  | C  | E  | D  | E  | C  | C  | C  | C  | 6         |
-| 35      | D        | D  | D  | D  | X  | D  | D  | D  | E  | E  | E  | 6         |
-| **Acertos** |      | 11 | 11 | 9  | 6  | 6  | 12 | 12 | 10 | 10 | 10 | **9,7**   |
-| **Percentual de Acerto** | |44,0%|44,0%|36,0%|24,0%|24,0%|48,0%|48,0%|40,0%|40,0%|40,0%| **38,8%** |
+| Questão | Gabarito | Nível de Dificuldade | Correlação Ponto-Biserial | Tentativa 1 | Tentativa 2 | Tentativa 3 | Tentativa 4 | Tentativa 5 | Tentativa 6 | Tentativa 7 | Tentativa 8 | Tentativa 9 | Tentativa 10 | Pontuação |
+|---------|----------|----------------------|----------------------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|--------------|-----------|
+| 9       | E        | Medium               | 0.24                       | E           | D           | D           | D           | D           | D           | D           | D           | D           | D            | 1         |
+| 10      | B        | Hard                 | 0.40                       | B           | B           | B           | B           | B           | B           | B           | B           | B           | B            | 10        |
+| 11      | D        | Easy                 | 0.47                       | E           | D           | A           | E           | A           | E           | D           | E           | E           | E            | 2         |
+| 12      | B        | Very Hard            | 0.04                       | C           | E           | D           | D           | D           | E           | D           | E           | E           | E            | 0         |
+| 13      | E        | Hard                 | -0.04                      | D           | D           | D           | D           | D           | D           | D           | D           | D           | D            | 0         |
+| 14      | C        | Hard                 | 0.26                       | C           | B           | B           | B           | B           | C           | C           | C           | C           | C            | 6         |
+| 15      | C        | Medium               | 0.29                       | C           | C           | C           | C           | C           | C           | C           | C           | C           | C            | 10        |
+| 16      | B        | Easy                 | 0.37                       | D           | C           | A           | E           | A           | E           | C           | C           | E           | E            | 0         |
+| 17      | C        | Very Hard            | -0.01                      | A           | A           | C           | A           | A           | C           | C           | C           | C           | A            | 5         |
+| 18      | E        | Medium               | 0.31                       | E           | E           | E           | C           | E           | E           | E           | E           | E           | E            | 9         |
+| 19      | D        | Hard                 | 0.26                       | E           | X           | E           | E           | E           | E           | E           | E           | E           | E            | 0         |
+| 20      | A        | Hard                 | 0.53                       | A           | A           | D           | A           | B           | A           | C           | C           | C           | C            | 4         |
+| 21      | E        | Very Hard            | -0.08                      | C           | C           | C           | C           | C           | C           | C           | C           | C           | C            | 0         |
+| 22      | A        | Medium               | 0.38                       | A           | A           | A           | A           | A           | A           | A           | A           | A           | A            | 10        |
+| 23      | C        | Medium               | 0.28                       | E           | X           | E           | X           | E           | X           | E           | E           | E           | E            | 0         |
+| 24      | E        | Hard                 | 0.33                       | A           | E           | A           | D           | A           | E           | A           | A           | C           | A            | 2         |
+| 25      | B        | Hard                 | -0.05                      | E           | E           | E           | E           | E           | E           | E           | E           | E           | E            | 0         |
+| 26      | A        | Very Hard            | 0.23                       | A           | E           | E           | E           | E           | E           | E           | E           | E           | E            | 1         |
+| 27      | D        | Medium               | 0.45                       | C           | D           | B           | D           | B           | D           | D           | D           | D           | D            | 7         |
+| 28      | B        | Hard                 | 0.34                       | E           | E           | E           | E           | E           | E           | E           | E           | E           | E            | 0         |
+| 30      | E        | Medium               | 0.37                       | E           | E           | E           | E           | A           | E           | E           | E           | E           | E            | 9         |
+| 31      | E        | Hard                 | 0.37                       | E           | B           | E           | B           | E           | E           | E           | E           | E           | E            | 8         |
+| 32      | A        | Hard                 | 0.02                       | D           | D           | D           | D           | D           | D           | D           | D           | D           | A            | 1         |
+| 34      | C        | Hard                 | 0.20                       | D           | C           | C           | E           | D           | E           | C           | C           | C           | C            | 6         |
+| 35      | D        | Medium               | 0.48                       | D           | D           | D           | X           | D           | D           | D           | E           | E           | E            | 6         |
+| **Acertos** |        |                      |                            | 11          | 11          | 9           | 6           | 6           | 12          | 12          | 10          | 10          | 10           | **9,7**   |
+| **Percentual de Acerto** | |                      |                            | 44,0%       | 44,0%       | 36,0%        | 24,0%        | 24,0%        | 48,0%       | 48,0%       | 40,0%       | 40,0%       | 40,0%        | **38,8%** |
 
 ## Tabela Desempenho do ChatGPT-o1 em 10 rodadas nas 25 questões (imagens) do ENADE 2024 de Ciência da Computação  
 | Questão | Gabarito | o1 | o1 | o1 | o1 | o1 | o1 | o1 | o1 | o1 | o1 | Pontuação |
