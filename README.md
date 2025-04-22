@@ -6,7 +6,7 @@ The tables below provide an overview of the multiple-choice questions.
 
 ## Tabela Desempenho do ChatGPT-4o em 10 rodadas nas 25 questões (imagens) do ENADE 2024 de Ciência da Computação  
 
-| Questão | Gabarito | Nível de Dificuldade | Correlação Ponto-Biserial | Tentativa 1 | Tentativa 2 | Tentativa 3 | Tentativa 4 | Tentativa 5 | Tentativa 6 | Tentativa 7 | Tentativa 8 | Tentativa 9 | Tentativa 10 | Pontuação |
+| Questão | Gabarito | Nível de Dificuldade | Correlação Ponto-Biserial | Resposta 1 | Resposta 2 | Resposta 3 | Resposta 4 | Resposta 5 | Resposta 6 | Resposta 7 | Resposta 8 | Resposta 9 | Resposta 10 | Pontuação |
 |---------|----------|----------------------|----------------------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|--------------|-----------|
 | 9       | E        | Medium               | 0.24                       | E           | D           | D           | D           | D           | D           | D           | D           | D           | D            | 1         |
 | 10      | B        | Hard                 | 0.40                       | B           | B           | B           | B           | B           | B           | B           | B           | B           | B            | 10        |
