@@ -5,9 +5,9 @@ This repository contains supplementary materials for the study reported in the p
 
 The tables below provide an overview of the answers produced by the LLMs for the multiple‑choice questions from the 2024 ENADE Computer Science exam. The questions were supplied to the LLMs as images.
 
-## Tabela Desempenho do ChatGPT-4o em 10 rodadas nas 25 questões (imagens) do ENADE 2024 de Ciência da Computação  
+## Performance of **ChatGPT‑4o** over 10 rounds on the 25 image‑based questions from the 2024 ENADE Computer Science exam  
 
-| Questão | Gabarito | Nível de Dificuldade | Correlação Ponto-Biserial | Resposta 1 | Resposta 2 | Resposta 3 | Resposta 4 | Resposta 5 | Resposta 6 | Resposta 7 | Resposta 8 | Resposta 9 | Resposta 10 | Pontuação |
+| Question | Answer Key | Difficulty Level | Point‑Biserial Correlation | Response 1 | Response 2 | Response 3 | Response 4 | Response 5 | Response 6 | Response 7 | Response 8 | Response 9 | Response 10 | Score |
 |---------|----------|----------------------|----------------------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|--------------|-----------|
 | 9       | E        | Medium               | 0.24                       | E           | D           | D           | D           | D           | D           | D           | D           | D           | D            | 1         |
 | 10      | B        | Hard                 | 0.40                       | B           | B           | B           | B           | B           | B           | B           | B           | B           | B            | 10        |
@@ -34,11 +34,11 @@ The tables below provide an overview of the answers produced by the LLMs for the
 | 32      | A        | Hard                 | 0.02                       | D           | D           | D           | D           | D           | D           | D           | D           | D           | A            | 1         |
 | 34      | C        | Hard                 | 0.20                       | D           | C           | C           | E           | D           | E           | C           | C           | C           | C            | 6         |
 | 35      | D        | Medium               | 0.48                       | D           | D           | D           | X           | D           | D           | D           | E           | E           | E            | 6         |
-| **Acertos** |        |                      |                            | 11          | 11          | 9           | 6           | 6           | 12          | 12          | 10          | 10          | 10           | **9,7**   |
-| **Percentual de Acerto** | |                      |                            | 44,0%       | 44,0%       | 36,0%        | 24,0%        | 24,0%        | 48,0%       | 48,0%       | 40,0%       | 40,0%       | 40,0%        | **38,8%** |
+| **Correct Answers** |     |      |      | 11          | 11          | 9           | 6           | 6           | 12          | 12          | 10          | 10          | 10           | **9,7**   |
+| **Accuracy %** |     |      |      | 44,0%       | 44,0%       | 36,0%        | 24,0%        | 24,0%        | 48,0%       | 48,0%       | 40,0%       | 40,0%       | 40,0%        | **38,8%** |
 
-## Tabela Desempenho do ChatGPT-o1 em 10 rodadas nas 25 questões (imagens) do ENADE 2024 de Ciência da Computação  
-| Questão | Gabarito | Nível de Dificuldade | Correlação Ponto‑Biserial |  Resposta 1  |  Resposta 2  |  Resposta 3  |  Resposta 4  |  Resposta 5  |  Resposta 6  |  Resposta 7  |  Resposta 8  |  Resposta 9  |  Resposta 10  | Pontuação |
+## Performance of **ChatGPT‑o1** over 10 rounds on the 25 image‑based questions from the 2024 ENADE Computer Science exam
+| Question | Answer Key | Difficulty Level | Point‑Biserial Correlation | Response 1 | Response 2 | Response 3 | Response 4 | Response 5 | Response 6 | Response 7 | Response 8 | Response 9 | Response 10 | Score |
 |---------|----------|----------------------|---------------------------|----|----|----|----|----|----|----|----|----|----|-----------|
 | 9  | E | Medium     | 0.24  | X | X | X | X | X | X | X | X | X | E | 1 |
 | 10 | B | Hard       | 0.40  | B | B | B | B | B | B | B | B | B | B | 10 |
@@ -65,11 +65,11 @@ The tables below provide an overview of the answers produced by the LLMs for the
 | 32 | A | Hard       | 0.02  | X | A | A | A | A | X | A | A | A | A | 8 |
 | 34 | C | Hard       | 0.20  | C | C | C | C | C | C | C | C | C | C | 10 |
 | 35 | D | Medium     | 0.48  | D | D | D | D | D | D | D | D | D | D | 10 |
-| **Acertos** |  |  |  | 15 | 19 | 19 | 19 | 18 | 19 | 20 | 20 | 20 | 20 | **18,9** |
-| **Percentual de Acerto** |  |  |  | 60.0% | 76.0% | 76.0% | 76.0% | 72.0% | 76.0% | 80.0% | 80.0% | 80.0% | 80.0% | **75.6%** |
+| **Correct Answers** |     |      |      | 15 | 19 | 19 | 19 | 18 | 19 | 20 | 20 | 20 | 20 | **18,9** |
+| **Accuracy %** |     |      |      | 60.0% | 76.0% | 76.0% | 76.0% | 72.0% | 76.0% | 80.0% | 80.0% | 80.0% | 80.0% | **75.6%** |
 
-## Tabela Desempenho do Deepseek - V3(R1) em 10 rodadas nas 25 questões (imagens) do ENADE 2024 de Ciência da Computação 
-| Questão | Gabarito | Nível de Dificuldade | Correlação Ponto‑Biserial |  Resposta 1  |  Resposta 2  |  Resposta 3  |  Resposta 4  |  Resposta 5  |  Resposta 6  |  Resposta 7  |  Resposta 8  |  Resposta 9  |  Resposta 10  | Pontuação |
+## Performance of **Deepseek - V3(R1)** over 10 rounds on the 25 image‑based questions from the 2024 ENADE Computer Science exam
+| Question | Answer Key | Difficulty Level | Point‑Biserial Correlation | Response 1 | Response 2 | Response 3 | Response 4 | Response 5 | Response 6 | Response 7 | Response 8 | Response 9 | Response 10 | Score |
 |---------|----------|----------------------|---------------------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|-----------|
 | 9   | E | Medium     | 0.24  | D | D | D | D | D | X | D | D | D | D | 0 |
 | 10  | B | Hard       | 0.40  | B | B | B | B | B | B | B | B | B | B | 10 |
@@ -96,13 +96,13 @@ The tables below provide an overview of the answers produced by the LLMs for the
 | 32  | A | Hard       | 0.02  | D | D | X | B | B | D | D | D | D | D | 0 |
 | 34  | C | Hard       | 0.20  | C | E | C | C | C | C | X | C | C | C | 8 |
 | 35  | D | Medium     | 0.48  | D | D | D | D | D | D | D | D | D | D | 10 |
-| **Acertos** |  |  |  | 15 | 14 | 17 | 16 | 15 | 16 | 14 | 16 | 15 | 16 | **15,4** |
-| **Percentual de Acerto** |  |  |  | 60,0% | 56,0% | 68,0% | 64,0% | 64,0% | 64,0% | 56,0% | 64,0% | 60,0% | 64,0% | **62,0%** |
+| **Correct Answers** |     |      |      | 15 | 14 | 17 | 16 | 15 | 16 | 14 | 16 | 15 | 16 | **15,4** |
+| **Accuracy %** |     |      |      | 60,0% | 56,0% | 68,0% | 64,0% | 64,0% | 64,0% | 56,0% | 64,0% | 60,0% | 64,0% | **62,0%** |
 
 **OBS: NT = Deepseek não conseguiu reconhecer a imagem da questão.**
 
-## Tabela Desempenho do Gemini-2.0 Flash em 10 rodadas nas 25 questões (imagens) do ENADE 2024 de Ciência da Computação 
-| Questão | Gabarito | Nível de Dificuldade | Correlação Ponto‑Biserial |  Resposta 1  |  Resposta 2  |  Resposta 3  |  Resposta 4  |  Resposta 5  |  Resposta 6  |  Resposta 7  |  Resposta 8  |  Resposta 9  |  Resposta 10  | Pontuação |
+## Performance of **Gemini-2.0 Flash** over 10 rounds on the 25 image‑based questions from the 2024 ENADE Computer Science exam
+| Question | Answer Key | Difficulty Level | Point‑Biserial Correlation | Response 1 | Response 2 | Response 3 | Response 4 | Response 5 | Response 6 | Response 7 | Response 8 | Response 9 | Response 10 | Score |
 |---------|----------|----------------------|---------------------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|----------|-----------|
 | 9   | E | Medium     | 0.24  | E | E | E | E | E | E | E | E | E | E | 10 |
 | 10  | B | Hard       | 0.40  | B | B | B | B | B | B | B | B | B | B | 10 |
@@ -129,12 +129,12 @@ The tables below provide an overview of the answers produced by the LLMs for the
 | 32  | A | Hard       | 0.02  | A | A | A | A | A | A | A | A | A | A | 10 |
 | 34  | C | Hard       | 0.20  | E | D | C | E | A | C | C | E | C | C | 5 |
 | 35  | D | Medium     | 0.48  | D | D | D | D | D | D | D | D | D | D | 10 |
-| **Acertos** |   |          |        | 19 | 19 | 20 | 18 | 20 | 20 | 21 | 20 | 19 | 21 | **19,7** |
-| **Percentual de Acerto** |   |          |        | 76,0 % | 76,0 % | 80,0 % | 72,0 % | 80,0 % | 80,0 % | 84,0 % | 80,0 % | 76,0 % | 84,0 % | **78,8 %** |
+| **Correct Answers** |     |      |      | 19 | 19 | 20 | 18 | 20 | 20 | 21 | 20 | 19 | 21 | **19,7** |
+| **Accuracy %** |     |      |      | 76,0 % | 76,0 % | 80,0 % | 72,0 % | 80,0 % | 80,0 % | 84,0 % | 80,0 % | 76,0 % | 84,0 % | **78,8 %** |
 
 
-## Tabela Desempenho do ChatGPT-4o em 10 rodadas nas 19 questões (imagens) do ENADE 2024 de Ciência da Computação  
-| Questão | Gabarito | Nível de Dificuldade | Correlação Ponto‑Biserial |  Resposta 1  |  Resposta 2  |  Resposta 3  |  Resposta 4  |  Resposta 5  |  Resposta 6  |  Resposta 7  |  Resposta 8  |  Resposta 9  |  Resposta 10  | Pontuação |
+## Performance of **ChatGPT‑4o** over 10 rounds on the 19 image‑based questions from the 2024 ENADE Computer Science exam   
+| Question | Answer Key | Difficulty Level | Point‑Biserial Correlation | Response 1 | Response 2 | Response 3 | Response 4 | Response 5 | Response 6 | Response 7 | Response 8 | Response 9 | Response 10 | Score |
 |---------|----------|----------------------|---------------------------|------|------|------|------|------|------|------|------|------|-------|-----------|
 | 9  | E | Medium     | 0.24 | E | D | D | D | D | D | D | D | D | D | 1 |
 | 10 | B | Hard       | 0.40 | B | B | B | B | B | B | B | B | B | B | 10 |
@@ -155,11 +155,11 @@ The tables below provide an overview of the answers produced by the LLMs for the
 | 31 | E | Hard       | 0.37 | E | B | E | B | E | E | E | E | E | E | 8 |
 | 34 | C | Hard       | 0.20 | D | C | C | E | D | E | C | C | C | C | 6 |
 | 35 | D | Medium     | 0.48 | D | D | D | X | D | D | D | E | E | E | 6 |
-| **Acertos** |   |          |        | 11 | 11 | 8  | 6  | 6  | 11 | 11 | 9  | 9  | 9  | **9,1**   |
+| **Correct Answers** |     |      |      | 11 | 11 | 8  | 6  | 6  | 11 | 11 | 9  | 9  | 9  | **9,1**   |
 | **Percentual de Acerto** |   |          |        |57,9%|57,9%|42,1%|31,6%|31,6%|57,9%|57,9%|47,4%|47,4%|47,4%| **47,9%** |
 
-## Tabela Desempenho do ChatGPT-o1 em 10 rodadas nas 19 questões (imagens) do ENADE 2024 de Ciência da Computação
-| Questão | Gabarito | Nível de Dificuldade | Correlação Ponto‑Biserial |  Resposta 1  |  Resposta 2  |  Resposta 3  |  Resposta 4  |  Resposta 5  |  Resposta 6  |  Resposta 7  |  Resposta 8  |  Resposta 9  |  Resposta 10  | Pontuação |
+## Performance of **ChatGPT‑o1** over 10 rounds on the 19 image‑based questions from the 2024 ENADE Computer Science exam
+| Question | Answer Key | Difficulty Level | Point‑Biserial Correlation | Response 1 | Response 2 | Response 3 | Response 4 | Response 5 | Response 6 | Response 7 | Response 8 | Response 9 | Response 10 | Score |
 |---------|----------|----------------------|---------------------------|----|----|----|----|----|----|----|----|----|----|-----------|
 | 9  | E | Medium     | 0.24  | X | X | X | X | X | X | X | X | X | E | 1  |
 | 10 | B | Hard       | 0.40  | B | B | B | B | B | B | B | B | B | B | 10 |
@@ -180,11 +180,11 @@ The tables below provide an overview of the answers produced by the LLMs for the
 | 31 | E | Hard       | 0.37  | E | E | E | E | E | E | E | E | E | E | 10 |
 | 34 | C | Hard       | 0.20  | C | C | C | C | C | C | C | C | C | C | 10 |
 | 35 | D | Medium     | 0.48  | D | D | D | D | D | D | D | D | D | D | 10 |
-| **Acertos** |   |        |       | 13 | 15 | 16 | 15 | 15 | 17 | 17 | 17 | 16 | 17 | **15,8** |
-| **% Acerto** |   |        |       | 68,4 % | 78,9 % | 84,2 % | 78,9 % | 78,9 % | 89,5 % | 89,5 % | 89,5 % | 84,2 % | 89,5 % | **83,2 %** |
+| **Correct Answers** |     |      |      | 13 | 15 | 16 | 15 | 15 | 17 | 17 | 17 | 16 | 17 | **15,8** |
+| **Accuracy %** |     |      |      | 68,4 % | 78,9 % | 84,2 % | 78,9 % | 78,9 % | 89,5 % | 89,5 % | 89,5 % | 84,2 % | 89,5 % | **83,2 %** |
 
-## Tabela Desempenho do Deepseek - V3(R1) em 10 rodadas nas 19 questões (imagens) do ENADE 2024 de Ciência da Computação 
-| Questão | Gabarito | Nível de Dificuldade | Correlação Ponto‑Biserial |  Resposta 1  |  Resposta 2  |  Resposta 3  |  Resposta 4  |  Resposta 5  |  Resposta 6  |  Resposta 7  |  Resposta 8  |  Resposta 9  |  Resposta 10  | Pontuação |
+## Performance of **Deepseek - V3(R1)** over 10 rounds on the 19 image‑based questions from the 2024 ENADE Computer Science exam 
+| Question | Answer Key | Difficulty Level | Point‑Biserial Correlation | Response 1 | Response 2 | Response 3 | Response 4 | Response 5 | Response 6 | Response 7 | Response 8 | Response 9 | Response 10 | Score |
 |---------|----------|----------------------|---------------------------|------|------|------|------|------|------|------|------|------|-------|-----------|
 | 9   | E | Medium     | 0.24  | D | D | D | D | D | X | D | D | D | D | 0  |
 | 10  | B | Hard       | 0.40  | B | B | B | B | B | B | B | B | B | B | 10 |
@@ -205,13 +205,13 @@ The tables below provide an overview of the answers produced by the LLMs for the
 | 31  | E | Hard       | 0.37  | NT | NT | NT | NT | NT | NT | NT | NT | NT | NT | 0 |
 | 34  | C | Hard       | 0.20  | C | E | C | C | C | C | X | C | C | C | 8  |
 | 35  | D | Medium     | 0.48  | D | D | D | D | D | D | D | D | D | D | 10 |
-| **Acertos**              |      |                      |                           | 14 | 13 | 15 | 15 | 14 | 14 | 13 | 15 | 14 | 15 | **14,2** |
-| **Percentual de Acerto** |      |                      |                           | 73,7 % | 68,4 % | 78,9 % | 78,9 % | 73,7 % | 73,7 % | 68,4 % | 78,9 % | 73,7 % | 78,9 % | **74,7 %** |
+| **Correct Answers** |     |      |      | 14 | 13 | 15 | 15 | 14 | 14 | 13 | 15 | 14 | 15 | **14,2** |
+| **Accuracy %** |     |      |      | 73,7 % | 68,4 % | 78,9 % | 78,9 % | 73,7 % | 73,7 % | 68,4 % | 78,9 % | 73,7 % | 78,9 % | **74,7 %** |
 
-**OBS: NT = Deepseek não conseguiu reconhecer a imagem da questão.**
+**Note: NT = Deepseek could not recognize the question image.**
 
-## Tabela Desempenho do Gemini-2.0 Flash em 10 rodadas nas 19 questões (imagens) do ENADE 2024 de Ciência da Computação 
-| Questão | Gabarito | Nível de Dificuldade | Correlação Ponto‑Biserial |  Resposta 1  |  Resposta 2  |  Resposta 3  |  Resposta 4  |  Resposta 5  |  Resposta 6  |  Resposta 7  |  Resposta 8  |  Resposta 9  |  Resposta 10  | Pontuação |
+## Performance of **Gemini-2.0 Flash** over 10 rounds on the 19 image‑based questions from the 2024 ENADE Computer Science exam 
+| Question | Answer Key | Difficulty Level | Point‑Biserial Correlation | Response 1 | Response 2 | Response 3 | Response 4 | Response 5 | Response 6 | Response 7 | Response 8 | Response 9 | Response 10 | Score |
 |---------|----------|----------------------|---------------------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|----------|-----------|
 | 9  | E | Medium     | 0.24 | E | E | E | E | E | E | E | E | E | E | 10 |
 | 10 | B | Hard       | 0.40 | B | B | B | B | B | B | B | B | B | B | 10 |
@@ -232,5 +232,5 @@ The tables below provide an overview of the answers produced by the LLMs for the
 | 31 | E | Hard       | 0.37 | D | B | A | B | B | E | D | E | E | B | 3  |
 | 34 | C | Hard       | 0.20 | E | D | C | E | A | C | C | E | C | C | 5  |
 | 35 | D | Medium     | 0.48 | D | D | D | D | D | D | D | D | D | D | 10 |
-| **Acertos**              |   |                      |                           | 14 | 14 | 15 | 14 | 15 | 16 | 16 | 15 | 14 | 16 | **14,9** |
-| **Percentual de Acerto** |   |                      |                           | 73,7 % | 73,7 % | 78,9 % | 73,7 % | 78,9 % | 84,2 % | 84,2 % | 78,9 % | 73,7 % | 84,2 % | **78,4 %** |
+| **Correct Answers** |     |      |      | 14 | 14 | 15 | 14 | 15 | 16 | 16 | 15 | 14 | 16 | **14,9** |
+| **Accuracy %** |     |      |      | 73,7 % | 73,7 % | 78,9 % | 73,7 % | 78,9 % | 84,2 % | 84,2 % | 78,9 % | 73,7 % | 84,2 % | **78,4 %** |
