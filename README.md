@@ -99,7 +99,7 @@ The tables below provide an overview of the answers produced by the LLMs for the
 | **Correct Answers** |     |      |      | 15 | 14 | 17 | 16 | 15 | 16 | 14 | 16 | 15 | 16 | **15,4** |
 | **Accuracy %** |     |      |      | 60,0% | 56,0% | 68,0% | 64,0% | 64,0% | 64,0% | 56,0% | 64,0% | 60,0% | 64,0% | **62,0%** |
 
-**OBS: NT = Deepseek não conseguiu reconhecer a imagem da questão.**
+**Note: NT = Deepseek could not recognize the question image.**
 
 ## Performance of **Gemini-2.0 Flash** over 10 rounds on the 25 image‑based questions from the 2024 ENADE Computer Science exam
 | Question | Answer Key | Difficulty Level | Point‑Biserial Correlation | Response 1 | Response 2 | Response 3 | Response 4 | Response 5 | Response 6 | Response 7 | Response 8 | Response 9 | Response 10 | Score |
