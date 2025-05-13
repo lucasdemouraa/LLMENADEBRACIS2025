@@ -40,31 +40,31 @@ The tables below provide an overview of the answers produced by the LLMs for the
 ## Performance of **ChatGPT‑o1** over 10 rounds on the 25 image‑based questions from the 2024 ENADE Computer Science exam
 | Question | Answer Key | Difficulty Level | Point‑Biserial Correlation | Response 1 | Response 2 | Response 3 | Response 4 | Response 5 | Response 6 | Response 7 | Response 8 | Response 9 | Response 10 | Score |
 |---------|----------|----------------------|---------------------------|----|----|----|----|----|----|----|----|----|----|-----------|
-| [9](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/q09-o1.md)  | E | Medium     | 0.24  | X | X | X | X | X | X | X | X | X | E | 1 |
-| [10](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/q10-o1.md) | B | Hard       | 0.40  | B | B | B | B | B | B | B | B | B | B | 10 |
-| [11](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/q11-o1.md) | D | Easy       | 0.47  | X | D | D | D | D | D | D | D | D | D | 9 |
-| 12 | B | Very Hard  | 0.04  | B | B | B | B | B | B | B | B | B | B | 10 |
-| 13 | E | Hard       | -0.04 | D | D | D | D | D | D | D | D | D | D | 0 |
-| 14 | C | Hard       | 0.26  | C | C | C | C | C | C | C | C | C | C | 10 |
-| 15 | C | Medium     | 0.29  | C | C | C | C | C | C | C | C | C | C | 10 |
-| 16 | B | Easy       | 0.37  | C | C | X | C | C | X | C | E | E | C | 0 |
-| 17 | C | Very Hard  | -0.01 | C | C | C | C | C | C | C | C | C | C | 10 |
-| 18 | E | Medium     | 0.31  | E | X | A | X | X | E | E | E | X | E | 5 |
-| 19 | D | Hard       | 0.26  | D | D | D | D | D | D | D | D | D | D | 10 |
-| 20 | A | Hard       | 0.53  | A | A | A | A | A | A | A | A | A | A | 10 |
-| 21 | E | Very Hard  | -0.08 | C | C | C | D | C | C | C | D | C | C | 0 |
-| 22 | A | Medium     | 0.38  | A | A | A | A | A | A | A | A | A | A | 10 |
-| 23 | C | Medium     | 0.28  | C | C | C | X | C | C | C | C | C | C | 9 |
-| 24 | E | Hard       | 0.33  | A | E | E | E | D | E | E | E | E | E | 8 |
-| 25 | B | Hard       | -0.05 | E | B | E | B | E | E | E | E | B | E | 3 |
-| 26 | A | Very Hard  | 0.23  | E | E | A | A | A | A | A | A | A | E | 7 |
-| 27 | D | Medium     | 0.45  | D | D | D | D | D | D | D | D | D | D | 10 |
-| 28 | B | Hard       | 0.34  | E | B | B | B | B | B | B | B | B | B | 9 |
-| 30 | E | Medium     | 0.37  | E | E | E | E | E | E | E | E | E | E | 10 |
-| 31 | E | Hard       | 0.37  | E | E | E | E | E | E | E | E | E | E | 10 |
-| 32 | A | Hard       | 0.02  | X | A | A | A | A | X | A | A | A | A | 8 |
-| 34 | C | Hard       | 0.20  | C | C | C | C | C | C | C | C | C | C | 10 |
-| 35 | D | Medium     | 0.48  | D | D | D | D | D | D | D | D | D | D | 10 |
+| [9](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q09-image.png)  | E | Medium     | 0.24  | X | X | X | X | X | X | X | X | X | E | 1 |
+| [10](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q10-image.png) | B | Hard       | 0.40  | B | B | B | B | B | B | B | B | B | B | 10 |
+| [11](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q11-image.png) | D | Easy       | 0.47  | X | D | D | D | D | D | D | D | D | D | 9 |
+| [12](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q12-image.png) | B | Very Hard  | 0.04  | B | B | B | B | B | B | B | B | B | B | 10 |
+| [13](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q13-image.png) | E | Hard       | -0.04 | D | D | D | D | D | D | D | D | D | D | 0 |
+| [14](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q14-image.png) | C | Hard       | 0.26  | C | C | C | C | C | C | C | C | C | C | 10 |
+| [15](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q15-image.png) | C | Medium     | 0.29  | C | C | C | C | C | C | C | C | C | C | 10 |
+| [16](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q16-image.png) | B | Easy       | 0.37  | C | C | X | C | C | X | C | E | E | C | 0 |
+| [17](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q17-image.png) | C | Very Hard  | -0.01 | C | C | C | C | C | C | C | C | C | C | 10 |
+| [18](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q18-image.png) | E | Medium     | 0.31  | E | X | A | X | X | E | E | E | X | E | 5 |
+| [19](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q19-image.png) | D | Hard       | 0.26  | D | D | D | D | D | D | D | D | D | D | 10 |
+| [20](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q20-image.png) | A | Hard       | 0.53  | A | A | A | A | A | A | A | A | A | A | 10 |
+| [21](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q21-image.png) | E | Very Hard  | -0.08 | C | C | C | D | C | C | C | D | C | C | 0 |
+| [22](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q22-image.png) | A | Medium     | 0.38  | A | A | A | A | A | A | A | A | A | A | 10 |
+| [23](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q23-image.png) | C | Medium     | 0.28  | C | C | C | X | C | C | C | C | C | C | 9 |
+| [24](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q24-image.png) | E | Hard       | 0.33  | A | E | E | E | D | E | E | E | E | E | 8 |
+| [25](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q25-image.png) | B | Hard       | -0.05 | E | B | E | B | E | E | E | E | B | E | 3 |
+| [26](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q26-image.png) | A | Very Hard  | 0.23  | E | E | A | A | A | A | A | A | A | E | 7 |
+| [27](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q27-image.png) | D | Medium     | 0.45  | D | D | D | D | D | D | D | D | D | D | 10 |
+| [28](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q28-image.png) | B | Hard       | 0.34  | E | B | B | B | B | B | B | B | B | B | 9 |
+| [30](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q30-image.png) | E | Medium     | 0.37  | E | E | E | E | E | E | E | E | E | E | 10 |
+| [31](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q31-image.png) | E | Hard       | 0.37  | E | E | E | E | E | E | E | E | E | E | 10 |
+| [32](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q32-image.png) | A | Hard       | 0.02  | X | A | A | A | A | X | A | A | A | A | 8 |
+| [34](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q34-image.png) | C | Hard       | 0.20  | C | C | C | C | C | C | C | C | C | C | 10 |
+| [35](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q35-image.png) | D | Medium     | 0.48  | D | D | D | D | D | D | D | D | D | D | 10 |
 | **Correct Answers** |     |      |      | 15 | 19 | 19 | 19 | 18 | 19 | 20 | 20 | 20 | 20 | **18,9** |
 | **Accuracy %** |     |      |      | 60.0% | 76.0% | 76.0% | 76.0% | 72.0% | 76.0% | 80.0% | 80.0% | 80.0% | 80.0% | **75.6%** |
 
