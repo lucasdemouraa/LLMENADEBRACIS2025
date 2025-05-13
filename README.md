@@ -35,7 +35,7 @@ The tables below provide an overview of the answers produced by the LLMs for the
 | [34](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q34-image.png)                            | C          | Hard             | 0.20                       | Yes    | D          | C          | C          | E          | D          | E          | C          | C          | C          | C           | 6     |
 | [35](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q35-image.png)                            | D          | Medium           | 0.48                       | Yes    | D          | D          | D          | X          | D          | D          | D          | E          | E          | E           | 6     |
 | **Correct Answers**                                                                                                     |            |                  |                            |        | 11         | 11         | 9          | 6          | 6          | 12         | 12         | 10         | 10         | 10          | **9,7** |
-| **Accuracy %**                                                                                                          |            |                  |                            |        | 44,0%      | 44,0%      | 36,0%      | 24,0%      | 24,0%      | 48,0%      | 48,0%      | 40,0%      | 40,0%      | 40,0%       | **38,8%** |
+| **Accuracy %** |            |                  |                            |        | 44,0%      | 44,0%      | 36,0%      | 24,0%      | 24,0%      | 48,0%      | 48,0%      | 40,0%      | 40,0%      | 40,0%       | **38,8%** |
 
 
 
