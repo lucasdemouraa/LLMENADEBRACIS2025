@@ -9,9 +9,9 @@ The tables below provide an overview of the answers produced by the LLMs for the
 
 | Question | Answer Key | Difficulty Level | Point‑Biserial Correlation | Response 1 | Response 2 | Response 3 | Response 4 | Response 5 | Response 6 | Response 7 | Response 8 | Response 9 | Response 10 | Score |
 |---------|----------|----------------------|----------------------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|--------------|-----------|
-| [9](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/q09-o1.md)      | E        | Medium               | 0.24                       | E           | D           | D           | D           | D           | D           | D           | D           | D           | D            | 1         |
-| [10](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/q10-o1.md)      | B        | Hard                 | 0.40                       | B           | B           | B           | B           | B           | B           | B           | B           | B           | B            | 10        |
-| [11](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/q11-o1.md)      | D        | Easy                 | 0.47                       | E           | D           | A           | E           | A           | E           | D           | E           | E           | E            | 2         |
+| 9      | E        | Medium               | 0.24                       | E           | D           | D           | D           | D           | D           | D           | D           | D           | D            | 1         |
+| 10      | B        | Hard                 | 0.40                       | B           | B           | B           | B           | B           | B           | B           | B           | B           | B            | 10        |
+| 11      | D        | Easy                 | 0.47                       | E           | D           | A           | E           | A           | E           | D           | E           | E           | E            | 2         |
 | 12      | B        | Very Hard            | 0.04                       | C           | E           | D           | D           | D           | E           | D           | E           | E           | E            | 0         |
 | 13      | E        | Hard                 | -0.04                      | D           | D           | D           | D           | D           | D           | D           | D           | D           | D            | 0         |
 | 14      | C        | Hard                 | 0.26                       | C           | B           | B           | B           | B           | C           | C           | C           | C           | C            | 6         |
@@ -40,9 +40,9 @@ The tables below provide an overview of the answers produced by the LLMs for the
 ## Performance of **ChatGPT‑o1** over 10 rounds on the 25 image‑based questions from the 2024 ENADE Computer Science exam
 | Question | Answer Key | Difficulty Level | Point‑Biserial Correlation | Response 1 | Response 2 | Response 3 | Response 4 | Response 5 | Response 6 | Response 7 | Response 8 | Response 9 | Response 10 | Score |
 |---------|----------|----------------------|---------------------------|----|----|----|----|----|----|----|----|----|----|-----------|
-| 9  | E | Medium     | 0.24  | X | X | X | X | X | X | X | X | X | E | 1 |
-| 10 | B | Hard       | 0.40  | B | B | B | B | B | B | B | B | B | B | 10 |
-| 11 | D | Easy       | 0.47  | X | D | D | D | D | D | D | D | D | D | 9 |
+| [9](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/q09-o1.md)  | E | Medium     | 0.24  | X | X | X | X | X | X | X | X | X | E | 1 |
+| [10](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/q10-o1.md) | B | Hard       | 0.40  | B | B | B | B | B | B | B | B | B | B | 10 |
+| [11](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/q11-o1.md) | D | Easy       | 0.47  | X | D | D | D | D | D | D | D | D | D | 9 |
 | 12 | B | Very Hard  | 0.04  | B | B | B | B | B | B | B | B | B | B | 10 |
 | 13 | E | Hard       | -0.04 | D | D | D | D | D | D | D | D | D | D | 0 |
 | 14 | C | Hard       | 0.26  | C | C | C | C | C | C | C | C | C | C | 10 |
