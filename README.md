@@ -35,7 +35,7 @@ The tables below provide an overview of the answers produced by the LLMs for the
 | [34](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q34-image.png)                            | C          | Hard             | 0.20                       | D          | C          | C          | E          | D          | E          | C          | C          | C          | C           | 6     |
 | [35](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q35-image.png)                            | D          | Medium           | 0.48                       | D          | D          | D          | X          | D          | D          | D          | E          | E          | E           | 6     |
 | **Correct Answers** |            |                  |                            | 11         | 11         | 9          | 6          | 6          | 12         | 12         | 10         | 10         | 10          | **9,7** |
-| **Accuracy %** | 44,0%      | 44,0%      | 36,0%      | 24,0%      | 24,0%      | 48,0%      | 48,0%      | 40,0%      | 40,0%      | 40,0%       | **38,8%** |
+| **Accuracy %** |     |      |      | 44,0%      | 44,0%      | 36,0%      | 24,0%      | 24,0%      | 48,0%      | 48,0%      | 40,0%      | 40,0%      | 40,0%       | **38,8%** |
 
 
 ## Performance of **ChatGPT‑o1** over 10 rounds on the 25 image‑based questions from the 2024 ENADE Computer Science exam
@@ -99,7 +99,7 @@ The tables below provide an overview of the answers produced by the LLMs for the
 | [34](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q34-image.png)                            | C          | Hard             | 0.20                       | C          | E          | C          | C          | C          | C          | X          | C          | C          | C           | 8     |
 | [35](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q35-image.png)                            | D          | Medium           | 0.48                       | D          | D          | D          | D          | D          | D          | D          | D          | D          | D           | 10    |
 | **Correct Answers** |            |                  |                            | 15         | 14         | 17         | 16         | 15         | 16         | 14         | 16         | 15         | 16          | **15,4** |
-| **Accuracy %** |            |                  |                            | 60,0%      | 56,0%      | 68,0%      | 64,0%      | 64,0%      | 64,0%      | 56,0%      | 64,0%      | 60,0%      | 64,0%       | **62,0%** |
+| **Accuracy %** |     |      |      | 60,0%      | 56,0%      | 68,0%      | 64,0%      | 64,0%      | 64,0%      | 56,0%      | 64,0%      | 60,0%      | 64,0%       | **62,0%** |
 
 
 **Note: NT = Deepseek could not recognize the question image.**
@@ -134,5 +134,5 @@ The tables below provide an overview of the answers produced by the LLMs for the
 | [34](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q34-image.png)                             | C          | Hard             | 0.20                       | E          | D          | C          | E          | A          | C          | C          | E          | C          | C           | 5     |
 | [35](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q35-image.png)                             | D          | Medium           | 0.48                       | D          | D          | D          | D          | D          | D          | D          | D          | D          | D           | 10    |
 | **Correct Answers** |            |                  |                            | 19         | 19         | 20         | 18         | 20         | 20         | 21         | 20         | 19         | 21          | **19,7** |
-| **Accuracy %** |            |                  |                            | 76,0 %     | 76,0 %     | 80,0 %     | 72,0 %     | 80,0 %     | 80,0 %     | 84,0 %     | 80,0 %     | 76,0 %     | 84,0 %      | **78,8 %** |
+| **Accuracy %** |     |      |      | 76,0 %     | 76,0 %     | 80,0 %     | 72,0 %     | 80,0 %     | 80,0 %     | 84,0 %     | 80,0 %     | 76,0 %     | 84,0 %      | **78,8 %** |
 
