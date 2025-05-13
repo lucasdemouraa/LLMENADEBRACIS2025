@@ -9,7 +9,7 @@ The tables below provide an overview of the answers produced by the LLMs for the
 
 | Question | Answer Key | Difficulty Level | Point‑Biserial Correlation | Response 1 | Response 2 | Response 3 | Response 4 | Response 5 | Response 6 | Response 7 | Response 8 | Response 9 | Response 10 | Score |
 |---------|----------|----------------------|----------------------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|--------------|-----------|
-| [9](google.com)       | E        | Medium               | 0.24                       | E           | D           | D           | D           | D           | D           | D           | D           | D           | D            | 1         |
+| [9](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/q09-o1.md)      | E        | Medium               | 0.24                       | E           | D           | D           | D           | D           | D           | D           | D           | D           | D            | 1         |
 | 10      | B        | Hard                 | 0.40                       | B           | B           | B           | B           | B           | B           | B           | B           | B           | B            | 10        |
 | 11      | D        | Easy                 | 0.47                       | E           | D           | A           | E           | A           | E           | D           | E           | E           | E            | 2         |
 | 12      | B        | Very Hard            | 0.04                       | C           | E           | D           | D           | D           | E           | D           | E           | E           | E            | 0         |
