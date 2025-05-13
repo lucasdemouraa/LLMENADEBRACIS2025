@@ -7,9 +7,7 @@ The tables below provide an overview of the answers produced by the LLMs for the
 
 ## Performance of **ChatGPT‑4o** over 10 rounds on the 25 image‑based questions from the 2024 ENADE Computer Science exam  
 
-## Performance of **ChatGPT-4o** over 10 rounds on the 25 image-based questions from the 2024 ENADE Computer Science exam  
-
-| Question | Answer Key | Difficulty Level | Point-Biserial Correlation | Response 1 | Response 2 | Response 3 | Response 4 | Response 5 | Response 6 | Response 7 | Response 8 | Response 9 | Response 10 | Score |
+| Question  | Answer Key | Difficulty Level | Point-Biserial Correlation | Response 1 | Response 2 | Response 3 | Response 4 | Response 5 | Response 6 | Response 7 | Response 8 | Response 9 | Response 10 | Score |
 |-------------------------------------------------------------------------------------------------------------------------|------------|------------------|----------------------------|------------|------------|------------|------------|------------|------------|------------|------------|------------|-------------|-------|
 | [9](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q09-image.png)                             | E          | Medium           | 0.24                       | E          | D          | D          | D          | D          | D          | D          | D          | D          | D           | 1     |
 | [10](https://github.com/lucasdemouraa/LLMENADEBRACIS2025/blob/main/questions/q10-image.png)                            | B          | Hard             | 0.40                       | B          | B          | B          | B          | B          | B          | B          | B          | B          | B           | 10    |
